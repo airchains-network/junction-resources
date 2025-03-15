@@ -86,14 +86,9 @@ Go to GitHub and submit a PR titled:
 - After **March 17, 2025 (12:00 PM GMT)**, the Airchains team will:  
   ✅ Aggregate the **gentx** submissions.  
   ✅ Publish the final **genesis.json** file.  
-  ✅ **Start Genesis with 70 validators** (30 more will join post-genesis).  
   ✅ Delegate tokens to ensure validators stay in the **active set**.  
 
 ---
 
-## 📢 Important Notes  
-🔹 **Priority for Genesis Validators** is based on **Switchyard Testnet performance**.  
-🔹 Only **100 active validators** will be onboarded.  
-🔹 **Stay tuned** for GenTX details and **Genesis dates in the next 24 hours**.  
 
 Let's build together! 🚀  
