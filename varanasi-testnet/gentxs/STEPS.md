@@ -47,8 +47,8 @@ junctiond keys add <key-name> --keyring-backend os
 
 ### 3️⃣ Generate the gentx  
 ```bash
-junctiond genesis add-genesis-account <key-name> 100000000000umaf  
-junctiond genesis gentx <key-name> 100000000000umaf \  
+junctiond genesis add-genesis-account <key-name> 100000000000uamf  
+junctiond genesis gentx <key-name> 100000000000uamf \  
   --chain-id varanasi-1 \  
   --moniker "<your-moniker>" \  
   --commission-rate "0.10" \  
