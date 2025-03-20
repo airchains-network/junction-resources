@@ -23,3 +23,19 @@ This directory contains the official genesis file (`genesis.json`) for the Varan
   - Genesis time: March 22, 2025, 12:00:00 UTC
   - Initial token distribution
   - Module parameters for governance, staking, etc.
+
+## Joining the Network
+
+To join the Varanasi testnet as a validator:
+
+1. Install `junctiond` v0.3.1 from the [official releases](https://github.com/airchains-network/junction/releases)
+2. Initialize your node with `junctiond init <your-moniker> --chain-id varanasi-1 --default-denom uamf`
+3. Download the genesis file from this repository
+4. Configure your node and start it with `junctiond start`
+
+For complete instructions, see the [Validator Guide](./gentxs/README.md).
+
+## Additional Resources
+
+- [Junction GitHub Repository](https://github.com/airchains-network/junction)
+- [Official Documentation](https://docs.airchains.io)
